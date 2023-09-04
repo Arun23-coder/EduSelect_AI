@@ -1,6 +1,6 @@
 # EduSelect_AI
 
-A tool for matching student interests to areas of study.
+A tool that uses Machine learning and AI techniques to match student interests to study areas at the university level.
 
 ## Getting Started
 
