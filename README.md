@@ -1,6 +1,6 @@
 # EduSelect_AI
 
-A tool that uses Machine learning and AI techniques to match student interests to study areas at the university level.
+A Web app that uses Machine learning and AI techniques to match student interests to study areas at the university level.
 
 ## Getting Started
 
